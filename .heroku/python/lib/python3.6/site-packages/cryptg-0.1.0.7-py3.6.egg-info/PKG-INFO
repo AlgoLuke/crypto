@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: cryptg
+Version: 0.1.0.7
+Summary: Cryptographic utilities for Telegram
+Home-page: https://github.com/Lonami/cryptg
+Author: Lonami Exo
+Author-email: totufals@hotmail.com
+License: CC0
+Download-URL: https://github.com/Lonami/cryptg/releases
+Description-Content-Type: UNKNOWN
+Description: Tg-Crypto
+        =========
+        
+        This is a small C extension for Python 3 to help libraries that want to
+        work with the Telegram API, which uses the uncommon AES-IGE mode for it.
+        
+Keywords: telegram crypto cryptography mtproto aes
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Security :: Cryptography
+Classifier: License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6

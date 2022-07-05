@@ -19,7 +19,7 @@ numpy==1.14.2
 pandas==0.22.0
 pyaes==1.6.1
 pyasn1==0.4.2
-pycares==2.3.0
+pycares==4.2.0
 pyparsing==2.2.0
 python-dateutil==2.7.1
 python-dotenv==0.8.2
